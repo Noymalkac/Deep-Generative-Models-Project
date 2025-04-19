@@ -1,4 +1,12 @@
-# Deep-Generative-Models - Final course project
+# Deep Generative Models - Final course project
+
+Based on the paper: 
+"Neural Boltzmann Machines" – Alex H. Lang, Anton D. Loukianov, Charles K. Fisher, 2023.
+https://doi.org/10.48550/arXiv.2305.08337
+
+GitHub link: https://github.com/unlearnai/neural-boltzmann-machines.git
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Comparison output (prints):
 
