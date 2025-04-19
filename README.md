@@ -1,5 +1,4 @@
-# Deep-Generative-Models-Project
-Final course project
+# Deep-Generative-Models - Final course project
 
 Comparison output (prints):
 
