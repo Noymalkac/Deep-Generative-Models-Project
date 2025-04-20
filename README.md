@@ -15,7 +15,6 @@ The comparison code is in comparison_final.py
 The figures from the comparison results are located in the comparison_results folder.   
 The figure and other file (like csv) from the original model and from the altered model are located in the folder Original and altered results.
 
-![Alt text](comparison_results/weights_comparison_epoch_49.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
