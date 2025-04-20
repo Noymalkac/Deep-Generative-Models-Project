@@ -1,0 +1,17 @@
+bias_net_weight_decay: 0.5
+image_shape: !!python/tuple
+- 1
+- 28
+- 28
+latent_size: 64
+learning_rate: 0.0005
+logger_dir: !!python/object/apply:pathlib.WindowsPath
+- .experiment_results
+- logs
+- lightning_logs
+- version_3
+mc_steps: 32
+num_classes: 10
+precision_net_weight_decay: 0.5
+visible_unit_type: gaussian
+weights_net_weight_decay: 1.0
