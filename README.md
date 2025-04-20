@@ -8,7 +8,9 @@ GitHub link: https://github.com/unlearnai/neural-boltzmann-machines.git
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The altered code is located in the python files: NBM_altered.py and train_altered.py
+The altered code is located in the python files: NBM_altered.py and train_altered.py.
+My code is using the original util.py and datasets.py files. 
+The comparison code is in comparison_final.py
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
