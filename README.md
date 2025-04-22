@@ -24,7 +24,7 @@ The total MSE code is located in the file MSE.py.
 ![Alt text](comparison_results/weights_comparison_epoch_49.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Comparison output (prints):
+# Comparison output:
 
 Final Metrics Comparison:
 | Version  | Final CD Loss | Final Bias MSE | Final Var MSE |
