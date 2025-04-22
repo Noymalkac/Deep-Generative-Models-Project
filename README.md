@@ -13,7 +13,10 @@ My code is using the original util.py and datasets.py files.
 The comparison code is in comparison_final.py
 
 The figures from the comparison results are located in the comparison_results folder.   
-The figure and other file (like csv) from the original model and from the altered model are located in the folder Original and altered results.
+The figures and other files (like csv) from the original model and from the altered model are located in the folder Original and altered results.
+
+The comparison output code is in the file comparison_final.py.
+The total MSE code is located in the file MSE.py.
 
 ![Alt text](comparison_results/weights_comparison_epoch_49.png)
 
