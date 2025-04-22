@@ -6,7 +6,7 @@ https://doi.org/10.48550/arXiv.2305.08337
 
 GitHub link: https://github.com/unlearnai/neural-boltzmann-machines.git
 
-The files datasets.py, util.py , neural_boltzmann_machine.py and train.py were obtained from the original code in GitHub (I made some minor changes).
+The files datasets.py, utils.py , neural_boltzmann_machine.py and train.py were obtained from the original code in GitHub (I made some minor changes).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  # Locations and general info:
