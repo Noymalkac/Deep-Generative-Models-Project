@@ -9,7 +9,7 @@ GitHub link: https://github.com/unlearnai/neural-boltzmann-machines.git
 The files datasets.py, util.py , neural_boltzmann_machine.py and train.py were obtained from the original code in GitHub (I made some minor changes).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
- # Locations and general info:#
+ # Locations and general info:
 
 The altered code is located in the python files: NBM_altered.py and train_altered.py.
 My code is using the original util.py and datasets.py files.  
@@ -24,7 +24,7 @@ The total MSE code is located in the file MSE.py.
 ![Alt text](comparison_results/weights_comparison_epoch_49.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Comparison output (prints):
+# Comparison output (prints):
 
 Final Metrics Comparison:
 | Version  | Final CD Loss | Final Bias MSE | Final Var MSE |
@@ -58,7 +58,7 @@ Statistical Significance Tests (Paired t-test):
 Comparison complete. Results saved to comparison_results/ folder.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Total MSE comparison between the original model and the altered model:
+# Total MSE comparison between the original model and the altered model (prints):
 
  NBM original:
  Mean Squared Error (MSE) on test set: 0.4036
