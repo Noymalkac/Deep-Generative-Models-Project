@@ -17,9 +17,7 @@ The figure and other file (like csv) from the original model and from the altere
 
 ![Alt text](comparison_results/weights_comparison_epoch_49.png)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Comparison output (prints):
 
 Final Metrics Comparison:
@@ -52,3 +50,14 @@ Statistical Significance Tests (Paired t-test):
 | MSE_Var_Loss     | 4.5404e-72     | Significant |
 
 Comparison complete. Results saved to comparison_results/ folder.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total MSE comparison between the original model and the altered model:
+
+ NBM original:
+ Mean Squared Error (MSE) on test set: 0.4036
+
+  NBM altered:
+ Mean Squared Error (MSE) on test set: 0.4115
+ 
+The new model is worse by 1.97% in terms of MSE.
